@@ -1,0 +1,66 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter Notebook
+notebooks/.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+
+
+# Flutter
+plant_disease_classifier_app/*.class
+plant_disease_classifier_app/*.log
+plant_disease_classifier_app/*.pyc
+plant_disease_classifier_app/*.swp
+plant_disease_classifier_app/.DS_Store
+plant_disease_classifier_app/.atom/
+plant_disease_classifier_app/.build/
+plant_disease_classifier_app/.buildlog/
+plant_disease_classifier_app/.history
+plant_disease_classifier_app/.svn/
+plant_disease_classifier_app/.swiftpm/
+plant_disease_classifier_app/migrate_working_dir/
+
+# IntelliJ related
+plant_disease_classifier_app/*.iml
+plant_disease_classifier_app/*.ipr
+plant_disease_classifier_app/*.iws
+plant_disease_classifier_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+plant_disease_classifier_app/**/ios/Flutter/.last_build_id
+plant_disease_classifier_app/.dart_tool/
+plant_disease_classifier_app/.flutter-plugins-dependencies
+plant_disease_classifier_app/.pub-cache/
+plant_disease_classifier_app/.pub/
+plant_disease_classifier_app/build/
+plant_disease_classifier_app/coverage/
+
+# Symbolication related
+plant_disease_classifier_app/app.*.symbols
+# Obfuscation related
+plant_disease_classifier_app/app.*.map.json
+# Android Studio will place build artifacts here
+plant_disease_classifier_app/android/app/debug
+plant_disease_classifier_app/android/app/profile
+plant_disease_classifier_app/android/app/release
+
+# Project-specific files to ignore
+models/
