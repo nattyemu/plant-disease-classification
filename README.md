@@ -1,4 +1,4 @@
-```markdown
+
 # Plant Disease Classification
 
 ## 🌿 Project Overview
